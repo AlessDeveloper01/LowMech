@@ -1,0 +1,1 @@
+var e=`/LowMech/assets/logo-DK2JCzhr.png`;export{e as t};
